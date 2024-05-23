@@ -1,2 +1,4 @@
 config.json
 messages.json
+.cache
+.cache-jasonpather
